@@ -1,4 +1,8 @@
-# Hi, I'm Armaan 👋
+<h1 align="center">Hi 👋, I'm Armaan</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Beginner+Developer;Learning+Web+Development;Python+Enthusiast;Future+AI+Developer" />
+</p>
 
 💻 Beginner Developer  
 🚀 Learning Web Development & AI  
@@ -17,8 +21,12 @@
 
 ## 📊 GitHub Stats
 
-![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=armaankhantech-glitch&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armaankhantech-glitch&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=armaankhantech-glitch&theme=tokyonight" />
+</p>
 ---
 
 ## 🌱 Currently Learning
