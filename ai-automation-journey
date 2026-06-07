@@ -42,3 +42,20 @@ Started understanding how applications communicate with each other using APIs.
 
 ## Progress
 Started understanding how automation workflows are structured and how businesses automate repetitive tasks.
+---
+
+# Day 4 Progress 🚀
+
+## What I Learned
+- Automation logic
+- Conditions in workflows
+- Data flow basics
+- n8n workflow structure
+
+## What I Built
+- My first simple workflow in n8n using:
+  - Manual Trigger
+  - Set Node
+
+## Progress
+Started building and understanding how automation systems actually execute tasks step-by-step.
