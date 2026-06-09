@@ -59,3 +59,56 @@ Started understanding how automation workflows are structured and how businesses
 
 ## Progress
 Started building and understanding how automation systems actually execute tasks step-by-step.
+
+# Day 5 Progress 🚀
+
+## Project Built
+
+### Lead Capture & Qualification System
+
+## Project Summary
+
+Built a fully automated lead management workflow using n8n, Google Sheets, and Gmail.
+
+## Workflow
+
+1. A new lead is added to Google Sheets
+2. Google Sheets Trigger detects the new row
+3. IF node checks the lead budget
+4. If Budget > ₹50,000:
+
+   * Lead is added to High Value Leads sheet
+   * Automated email is sent
+5. If Budget ≤ ₹50,000:
+
+   * Lead is added to Low Value Leads sheet
+
+## Tools Used
+
+* n8n
+* Google Sheets Trigger
+* IF Node
+* Google Sheets (Append Row)
+* Gmail Node
+* Google OAuth
+* Gmail API
+
+## Skills Learned
+
+* Workflow automation
+* Trigger-based systems
+* Conditional logic
+* Google integrations
+* API connections
+* Automated email systems
+* OAuth authentication
+* Data flow between nodes
+
+## Final Result
+
+Created a fully working Lead Capture & Qualification System that automatically categorizes leads and follows up with high-value prospects without manual effort.
+
+## Portfolio Description
+
+Built an automated Lead Capture & Qualification System in n8n that classifies leads based on budget, stores them in separate Google Sheets, and automatically sends emails to high-value leads. 🚀
+
