@@ -112,3 +112,37 @@ Created a fully working Lead Capture & Qualification System that automatically c
 
 Built an automated Lead Capture & Qualification System in n8n that classifies leads based on budget, stores them in separate Google Sheets, and automatically sends emails to high-value leads. 🚀
 
+---
+
+# Day 6 Progress 🚀
+
+## Project Built
+### Smart Lead Follow-Up System
+
+## Workflow
+Google Sheets Trigger
+↓
+Lead Data
+↓
+IF Budget > ₹50,000
+↓
+TRUE:
+- Send Premium Follow-up Email
+- Store in High Value Leads Sheet
+
+FALSE:
+- Send Basic Follow-up Email
+- Store in Low Value Leads Sheet
+
+## Concepts Learned
+- CRM basics
+- Customer segmentation
+- Workflow automation
+- Personalized follow-ups
+- Sales pipeline logic
+- Google integrations
+
+## Biggest Lesson
+Automation systems can help businesses save time, organize leads, and improve customer follow-ups automatically.
+
+Still learning and building daily 🚀
