@@ -146,3 +146,54 @@ FALSE:
 Automation systems can help businesses save time, organize leads, and improve customer follow-ups automatically.
 
 Still learning and building daily 🚀
+
+Day 7 of ai automation journey
+today i made some upgradation in my project :
+
+# Lead Qualification & CRM Automation System
+
+## Overview
+
+Built an automated lead management system using n8n.
+
+### Features
+
+* Google Form lead capture
+* Automatic lead qualification
+* High-value and low-value lead segmentation
+* Automated email responses
+* Google Sheets integration
+* PostgreSQL CRM database integration
+* CRM Dashboard with Webhook and HTML interface
+
+### Technologies Used
+
+* n8n
+* Google Forms
+* Google Sheets
+* Gmail
+* PostgreSQL
+* JavaScript
+* HTML
+* Webhooks
+
+### Concepts Learned
+
+* Workflow Automation
+* Triggers & Actions
+* Conditional Logic
+* Data Transformation
+* CRM Fundamentals
+* Webhooks
+* Database Management
+* Lead Pipelines
+
+### Future Improvements
+
+* Lead Status Tracking
+* AI Lead Scoring
+* AI Email Generation
+* Sales Pipeline Dashboard
+* WhatsApp Notifications
+* Analytics & Reporting
+
