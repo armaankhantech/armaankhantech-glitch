@@ -222,3 +222,28 @@ CRM Dashboard with PostgreSQL Integration
 
 Building real systems involves solving unexpected errors and integration challenges. Today's project helped me better understand how business data flows through databases, dashboards, and CRM platforms.
 
+
+# Day 9 Progress 🚀
+
+## Focus
+Introduction to Local AI using Ollama
+
+## Concepts Learned
+- What is an LLM
+- Prompt Engineering basics
+- Local AI models
+- AI inputs and outputs
+- AI workflow architecture
+
+## Practical Work
+- Installed Ollama
+- Tested local AI models
+- Explored prompt-response behavior
+- Designed a Local AI Lead Analyzer system
+
+## Biggest Lesson
+Automation handles execution.
+
+AI handles reasoning.
+
+Combining both creates intelligent business systems.
