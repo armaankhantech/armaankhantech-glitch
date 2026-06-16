@@ -38,7 +38,7 @@ I document everything I learn, build, and ship — daily.
 
 - 🔗 **LinkedIn:** [linkedin.com/in/Armaan khan](https://www.linkedin.com/in/armaankhan-tech/)
 - 🐦 **Twitter/X:** [Armaan khan](https://x.com/armaankhantech)
-- 📁 **Journey Repo:** [ai-automation-journey](https://github.com/armaankhantech-glitch/ai-automation-journey)
+- 📁 **Journey Repo:** [ai-automation-journey](https://github.com/armaankhantech/ai-automation-journey)
 
 ---
 
