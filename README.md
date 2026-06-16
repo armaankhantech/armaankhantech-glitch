@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI Automation Engineer (in progress);Learning+Web+Development;Python+Enthusiast;Future+AI+Developer" />
 </p>
 
-💻 Beginner Developer  
-🚀 Learning Web Development & AI  
+💻 AI Automation Engineer (in progress)  
+🚀 Building n8n workflows  
 📍 Pune, India
 
 ---
 
 ## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![N8N](https://img.shields.io/badge/N8N-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
