@@ -34,11 +34,22 @@ I document everything I learn, build, and ship — daily.
 - 📁 **Journey Repo:** [ai-automation-journey](https://github.com/armaankhantech/Ai-automation-journey)
 ---
 ## 🧭 Roadmap (5 Phases)
+
 Phase 1: Foundations ✅ Complete (Days 1–5)
+
+
 Phase 2: Builder 🔨 In Progress (Days 6–30)
+
+
 Phase 3: Professional 📋 Planned
+
+
 Phase 4: Expert 📋 Planned
+
+
 Phase 5: Entrepreneur 📋 Planned
+
+
 ---
 ## 🛠️ Tools & Tech
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
