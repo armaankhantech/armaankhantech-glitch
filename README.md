@@ -2,8 +2,7 @@
 **AI Automation Engineer (in progress)**
 · Building intelligent systems that save businesses time and money
 | 🎯 Goal: First freelance client by Month 3 |
-📅 Day 18 of public journey 📍 Pune, India
-
+📅 Day 24 of public journey    📍 Pune, India
 ---
 ## 🤖 What I Actually Build
 I design and build **AI-powered automation workflows** using:
