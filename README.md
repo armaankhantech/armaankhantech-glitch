@@ -1,6 +1,9 @@
 # Hey, I'm Armaan Khan 👋
-**AI Automation Engineer (in progress)** · Building intelligent systems that save businesses time and money
-📍 Pune, India | 🎯 Goal: First freelance client by Month 3 | 📅 Day 18 of public journey
+**AI Automation Engineer (in progress)**
+· Building intelligent systems that save businesses time and money
+📍 Pune, India
+| 🎯 Goal: First freelance client by Month 3 |
+📅 Day 18 of public journey
 ---
 ## 🤖 What I Actually Build
 I design and build **AI-powered automation workflows** using:
